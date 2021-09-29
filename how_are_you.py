@@ -1,0 +1,7 @@
+print("Hallo, tolong perkenalkan diri kamu")
+print()
+nama=input("Siapa nama kamu? ")
+usia=input("Berapa usiamu? ")
+alamat=input("Dimana kamu tinggal? ")
+print()
+print("Halo {0}, selamat datang".format(nama))
