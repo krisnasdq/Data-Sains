@@ -1,2 +1,2 @@
-# Hello
-project pertama untuk mengenali github
+# Data Sains
+project-project untuk mata kuliah data sains
